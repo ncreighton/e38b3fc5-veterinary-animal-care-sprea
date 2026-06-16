@@ -1,2 +1,25 @@
-# e38b3fc5-veterinary-animal-care-sprea
-10 pre-built calculators, trackers, and dashboards for common Veterinary &amp; Animal Care calculations. Instant spreadsheet tools without building from scratch.
+# Veterinary & Animal Care Spreadsheet Calculator Bundle
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AdR94ePbUE8FG9rKd0p0F)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AdR94ePbUE8FG9rKd0p0F)
+
